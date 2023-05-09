@@ -6,7 +6,7 @@ const Tictactoe = () =>{
         return <td> - </td>
     }
     return (
-        <div>
+        <div className = 'container'> 
            <table>
             <tbody>
                 <tr>

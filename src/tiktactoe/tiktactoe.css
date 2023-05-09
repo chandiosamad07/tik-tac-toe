@@ -1,5 +1,9 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
 table td {
-    border: 1px solid gray;
+    border: 1px solid navy;
     width: 100px;
     height: 100px;
 }
